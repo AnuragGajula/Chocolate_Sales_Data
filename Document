@@ -67,30 +67,8 @@ India	Scale successful premium product strategy
 🚀 How to Reproduce This Analysis
 Clone this repository
 
-Install requirements:
 
-bash
-Copy
-pip install pandas numpy matplotlib seaborn  
-Run the Jupyter notebook:
 
-bash
-Copy
-jupyter notebook Chocolate_Sales_Analysis.ipynb  
-📜 License
-This project is open-source under the MIT License.
-
-📬 Contact
-For questions or collaborations, email: [your-email@example.com]
-
-✨ Happy Analyzing!
-
-Appendix
-Sample Data Preview
-
-Full SQL Queries
-
-Interactive Dashboard (Power BI)
 
 (To BE Done)
 
